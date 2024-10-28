@@ -59,6 +59,11 @@ class pyAqara():
             "appid": "444c476ef7135e53330f46e7",
             "appkey": "NULL"
         },
+	"AU": {
+            "server" : "https://aiot-rpc-au.aqara.com",
+            "appid": "444c476ef7135e53330f46e7",
+            "appkey": "NULL"
+        },	
         "OTHER": {
             "server" : "https://aiot-rpc-usa.aqara.com",
             "appid": "444c476ef7135e53330f46e7",
